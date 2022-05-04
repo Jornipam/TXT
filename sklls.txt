@@ -1,0 +1,10 @@
+skills	
+1)Postman 
+2)Снятие и чтение логов с внешнего сервера
+3)Charles и Fiddler
+4)Dev Tools
+5)Android Studio
+6)Основы bash
+7)Основы SQL
+8)Jmeter
+
