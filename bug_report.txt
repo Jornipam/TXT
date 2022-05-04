@@ -1,1 +1,5 @@
-
+Summary: Краткое описание
+Severity: Серьезность
+Steps to reproduce: Шаги воспроизведения
+Result: Фактический результат
+Expected Result: Ожидаемый результат
